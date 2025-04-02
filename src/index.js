@@ -8,8 +8,9 @@ const path = require("path");
 
 const app = express();
 app.use(cors({
-  origin: "*",
+  origin: "https://consultar-cedula-front.onrender.com", 
 }));
+
 app.use(express.json());
 
 // 1. Endpoint para migrar datos a Firestore (opcional, puedes ejecutarlo una sola vez)
