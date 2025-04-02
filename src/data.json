@@ -1,0 +1,42 @@
+[
+    {
+        "cedula": "123456789",
+        "nombre": "Juan",
+        "apellido": "Pérez",
+        "genero": "Masculino",
+        "Fecha_Nacimiento": "12-10-1998",
+        "cargo": "Auxiliar",
+        "edad": 30,
+        "foto": "https://th.bing.com/th/id/R.a6aeb412ccb51272f400af6aa720a177?rik=AzIFoJgN002ZkA&pid=ImgRaw&r=0"
+    },
+    {
+        "cedula": "987654321",
+        "nombre": "María",
+        "apellido": "Gómez",
+        "genero": "Femenino",
+        "Fecha_Nacimiento": "02-03-1996",
+        "cargo": "Ingeniero",
+        "edad": 25,
+        "foto": "https://th.bing.com/th/id/R.f0e67ca95fa4b3013b090a91808e6328?rik=6UaKJFODDANh3g&pid=ImgRaw&r=0"
+    },
+    {
+        "cedula": "017153712",
+        "nombre": "Edgar",
+        "apellido": "Gonzales",
+        "genero": "Masculino",
+        "Fecha_Nacimiento": "06-04-2000",
+        "cargo": "Gerente",
+        "edad": 20,
+        "foto": "https://th.bing.com/th/id/OIP.Dgfz8Q8JyjpV4yC-YLjoCAAAAA?w=450&h=450&rs=1&pid=ImgDetMain"
+    },
+    {
+        "cedula": "0171537111",
+        "nombre": "Alexis",
+        "apellido": "Hernandez",
+        "genero": "Masculino",
+        "Fecha_Nacimiento": "01-09-1991",
+        "cargo": "Técnico",
+        "edad": 20,
+        "foto": "https://th.bing.com/th/id/OIP.gi9LeYy6-T0gltRKfkJmawHaLH?rs=1&pid=ImgDetMain"
+    }
+]
