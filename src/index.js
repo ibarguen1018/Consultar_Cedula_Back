@@ -1,4 +1,5 @@
 // src/index.js
+require("dotenv").config();
 const express = require("express");
 const cors = require("cors");
 const db = require("./firebaseService");
@@ -6,7 +7,9 @@ const fs = require("fs");
 const path = require("path");
 
 const app = express();
-app.use(cors());
+app.use(cors({
+  origin: "*",
+}));
 app.use(express.json());
 
 // 1. Endpoint para migrar datos a Firestore (opcional, puedes ejecutarlo una sola vez)
